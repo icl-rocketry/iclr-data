@@ -1,4 +1,4 @@
-P_N2_Tank(bar),P_Chamber(bar),P_Fuel_Tank(bar),M_N2O_Tank(kg),Thrust(N),P_Fuel_Inlet(bar),P_Ox_Tank(bar),P_Fuel_Injector(bar),T_Fuel_Pre(K),T_Fuel_Post(K),Fuel_Flow_Rate(L/s),T_Ox_Tank(K),Time(s)
+P_N2_Tank(bar),P_Chamber(bar),P_Fuel_Tank(bar),W_N2O_Tank(N),Thrust(N),P_Fuel_Inlet(bar),P_Ox_Tank(bar),P_Fuel_Injector(bar),T_Fuel_Pre(K),T_Fuel_Post(K),Fuel_Flow_Rate(L/s),T_Ox_Tank(K),Time(s)
 266.447998,1.130708,44.690693,-170.100952,-20.410404,0.361715,47.042458,0.97795,293.728119,259.501556,0.312731,292.048431,0.010745
 266.353943,1.193466,43.560757,-168.716644,-22.720127,0.333303,47.028877,0.99528,293.728119,259.509369,0.624496,292.048431,0.021745
 266.41806,1.139015,42.889843,-169.541626,-26.821062,0.331785,46.994881,0.977758,293.728119,259.509369,0.73017,292.048431,0.032745
